@@ -1,0 +1,22 @@
+.amz-buttons a.amz-btn-txt {
+    color: #fff!important;
+    font-size: 18px;
+    font-weight: 700!important;
+   	display:inline-block;
+    background: #f80;
+    padding: 12px 10px;
+    max-width: 400px;
+    margin: 18px auto;
+    text-align: center;
+	
+	
+	   
+}
+.amz-buttons{
+	text-align:center;
+}
+.amz-buttons a.amz-btn-txt:hover,
+.amz-buttons a.amz-btn-txt:focus,
+.amz-buttons a.amz-btn-txt:active {
+	color: #fff !important;
+}
